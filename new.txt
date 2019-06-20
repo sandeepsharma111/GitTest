@@ -1,1 +1,2 @@
- This i smy new git File
+ This i my new git File
+This is new change
